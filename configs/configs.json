@@ -1,0 +1,5 @@
+{
+  "apiKey": "place api key",
+  "uri": "https://graph.facebook.com/v13.0/me/messages",
+  "accessToken": "place your page access token here"
+}
